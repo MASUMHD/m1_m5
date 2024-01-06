@@ -60,9 +60,11 @@ nav a{
 .banner-content{
     max-width: 500px;
 }
-.banner .Porfile-pic{
+.Porfile-pic{
     width: 500px;
+    margin-right: 50px;
 }
+
 .banner-greeting{
     color: #474747;
     font-size: 45px;
